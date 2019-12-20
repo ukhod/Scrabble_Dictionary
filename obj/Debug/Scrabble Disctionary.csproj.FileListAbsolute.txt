@@ -1,0 +1,18 @@
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\bin\Debug\Scrabble Disctionary.exe.config
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\bin\Debug\Scrabble Disctionary.exe
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\bin\Debug\Scrabble Disctionary.pdb
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\obj\Debug\Scrabble Disctionary.csprojAssemblyReference.cache
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\obj\Debug\Scrabble_Disctionary.frmScrabble_dictionary.resources
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\obj\Debug\Scrabble_Disctionary.Properties.Resources.resources
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\obj\Debug\Scrabble Disctionary.csproj.GenerateResource.cache
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\obj\Debug\Scrabble Disctionary.exe
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Disctionary\obj\Debug\Scrabble Disctionary.pdb
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\bin\Debug\Scrabble Disctionary.exe.config
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\bin\Debug\Scrabble Disctionary.exe
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\bin\Debug\Scrabble Disctionary.pdb
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\obj\Debug\Scrabble Disctionary.csprojAssemblyReference.cache
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\obj\Debug\Scrabble_Disctionary.frmScrabble_dictionary.resources
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\obj\Debug\Scrabble_Disctionary.Properties.Resources.resources
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\obj\Debug\Scrabble Disctionary.csproj.GenerateResource.cache
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\obj\Debug\Scrabble Disctionary.exe
+C:\Users\ukhod\OneDrive\Desktop\Code Project\C#\Scrabble Dictionary\obj\Debug\Scrabble Disctionary.pdb
